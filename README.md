@@ -17,8 +17,8 @@ These instructions will help you set up your project locally for development and
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/tdd-studies-go.git
-    cd tdd-studies-go
+    git clone https://github.com/lptrm/go-code-kata.git
+    cd go-code-kata
     ```
 
 2. **Open the project in VS Code:**
