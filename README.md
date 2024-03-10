@@ -1,5 +1,3 @@
-Sure, here's a template for a README.md for your TDD studies project in Go, using development containers. You can customize this template according to the specifics of your project.
-
 # TDD Studies in Go
 
 This project is focused on learning and practicing Test-Driven Development (TDD) in Go. It uses development containers to ensure a consistent development environment across different setups.
