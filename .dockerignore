@@ -1,0 +1,77 @@
+# General
+*.log
+*.tmp
+tmp/
+temp/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Version Control
+.git/
+.gitignore
+.gitattributes
+
+# VS Code
+.vscode/
+.devcontainer/
+
+# Go specific
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+vendor/
+Gopkg.lock
+_go_build/
+
+# Binary & Object files
+*.o
+*.a
+*.out
+
+# Testing
+*.test
+*.test.log
+coverage.out
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor directories and files
+.idea/
+*.swp
+*.swo
+*.sublime
+*.sublime-project
+*.sublime-workspace
+.vs/
+*.vscode
+*.vscodeignore
+*.user
+*.userprefs
+*.usersettings
+*.tmp_proj
+*.csproj.user
+*.vbproj.user
+*.suo
+*.sln.docstates
+*.sln.ide
+
+# Dependency directories
+node_modules/
+jspm_packages/
+bower_components/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
