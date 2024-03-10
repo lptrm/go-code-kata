@@ -1,0 +1,6 @@
+{
+    "name": "Golang Code Katas",
+    "image": "golang",
+    "workspaceMount": "",
+    "runArgs": ["--volume=${localWorkspaceFolder}:/workspaces/${localWorkspaceFolderBasename}:Z"]
+}
